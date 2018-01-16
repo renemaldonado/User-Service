@@ -1,0 +1,5 @@
+C:\Users\rene_\OneDrive\Documentos\Visual Studio 2013\Projects\UserService\UsrSrvc\bin\Debug\LMSUsrSrvcDAL.dll
+C:\Users\rene_\OneDrive\Documentos\Visual Studio 2013\Projects\UserService\UsrSrvc\bin\Debug\LMSUsrSrvcDAL.pdb
+C:\Users\rene_\OneDrive\Documentos\Visual Studio 2013\Projects\UserService\UsrSrvc\obj\Debug\UsrSrvc.csprojResolveAssemblyReference.cache
+C:\Users\rene_\OneDrive\Documentos\Visual Studio 2013\Projects\UserService\UsrSrvc\obj\Debug\LMSUsrSrvcDAL.dll
+C:\Users\rene_\OneDrive\Documentos\Visual Studio 2013\Projects\UserService\UsrSrvc\obj\Debug\LMSUsrSrvcDAL.pdb

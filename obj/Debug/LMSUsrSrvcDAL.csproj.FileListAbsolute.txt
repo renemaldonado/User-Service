@@ -1,0 +1,10 @@
+C:\Users\rmaldonado\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\bin\Debug\LMSUsrSrvcDAL.dll
+C:\Users\rmaldonado\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\bin\Debug\LMSUsrSrvcDAL.pdb
+C:\Users\rmaldonado\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\obj\Debug\LMSUsrSrvcDAL.dll
+C:\Users\rmaldonado\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\obj\Debug\LMSUsrSrvcDAL.pdb
+C:\Users\rene_\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\bin\Debug\LMSUsrSrvcDAL.dll
+C:\Users\rene_\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\bin\Debug\LMSUsrSrvcDAL.pdb
+C:\Users\rene_\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\obj\Debug\LMSUsrSrvcDAL.csprojResolveAssemblyReference.cache
+C:\Users\rene_\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\obj\Debug\LMSUsrSrvcDAL.dll
+C:\Users\rene_\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\obj\Debug\LMSUsrSrvcDAL.pdb
+C:\Users\rmaldonado\Dropbox\WMS FF 2016\WMSFF_V2\DAL\LMSUsrSrvcDAL\obj\Debug\LMSUsrSrvcDAL.csprojResolveAssemblyReference.cache
